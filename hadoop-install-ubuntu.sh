@@ -1,3 +1,14 @@
+#!/usr/bin/bash
+
+
+###################################################################
+#Script Name:  HadoopInstaller                                                                   
+#Description: bash script to install hadoop on ubuntu                                                                                 
+#Author  	: x64nik
+#Email      : https://x64nik.github.io/
+###################################################################
+
+
 
 line="--------------------------------------------"
 
